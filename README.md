@@ -2,6 +2,7 @@
 
 This repository contains a production-ready LLM-powered Chatbot built using Python, LangChain, and Streamlit. It demonstrates a clean implementation of a "Chain" architecture, integrating OpenAI's latest models with real-time performance tracking.
 
+
 **🚀 Key Features**
 
   **Dynamic Model Selection:** Switch between various OpenAI models (e.g., GPT-5 series) via a sidebar interface.
@@ -11,6 +12,7 @@ This repository contains a production-ready LLM-powered Chatbot built using Pyth
   **LangSmith Observability:** Integrated with LangChain Tracing V2 for debugging, monitoring latency, and analyzing token usage.
   
   **Secure API Handling:** Uses dotenv for environment variables and a secure Streamlit password input for runtime API key injection.
+  
   
 
 **🛠️ Technical Stack**
@@ -24,6 +26,7 @@ This repository contains a production-ready LLM-powered Chatbot built using Pyth
   **Tracking:** LangSmith
   
   **Environment Management:** Python dotenv
+  
 
 
 **📋 Prerequisites**
